@@ -4,9 +4,10 @@ Open source dictation UI for Whisper.net
 
 Simple dictation UI for Winforms, using .NET implementation of OpenAI's Whisper thanks to [whisper.cpp](https://github.com/ggerganov/whisper.cpp) by GEorgi Geranov and [whisper.net] (https://github.com/sandrohanea/whisper.net) by Sandro Hanea
 
-![First screenshot](ss1.png)
+## Interface
+![Main Window](ss1.jpg)
 
-![Second screenshot](ss2.png)
+![Config](ss2.jpg)
 
 ## Getting Started
 Open project in Visual Studio, update Nuget dependencies, compile and run.  
@@ -18,8 +19,7 @@ Open project in Visual Studio, update Nuget dependencies, compile and run.
 - Logging of .wav and text versions of dictated content
 - Keep WhisperType's interface always on top, or leave it in the tray and use the traffic light tray icon indicators to know when WT is recording or transcribing.
 
-## Interface
-[Screenshots/video pending]
+
 
 ## Using WhisperType
 Two main usage methods are contemplated:
