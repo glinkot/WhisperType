@@ -2,7 +2,7 @@
 
 Open source dictation UI
 
-Simple dictation UI for Winforms, using .NET implementation of OpenAI's Whisper thanks to [whisper.cpp](https://github.com/ggerganov/whisper.cpp) by Georgi Geranov and [whisper.net] (https://github.com/sandrohanea/whisper.net) by Sandro Hanea
+Simple dictation UI for Winforms, using .NET implementation of OpenAI's Whisper thanks to [whisper.cpp](https://github.com/ggerganov/whisper.cpp) by Georgi Geranov and [whisper.net](https://github.com/sandrohanea/whisper.net) by Sandro Hanea
 
 ## Interface
 ![Main Window](ss1.jpg)
